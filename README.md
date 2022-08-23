@@ -25,4 +25,3 @@ Then I should be notified that there are no results
 Given I have a list of results
 When I 'favorite' an artist, song or album
 Then the favorited item should appear in another list (favorites section).
-![image](https://user-images.githubusercontent.com/43178904/186143475-757d8d42-2dfd-42a4-bf8d-6e1e62192f17.png)
